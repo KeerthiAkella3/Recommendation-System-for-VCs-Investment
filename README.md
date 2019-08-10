@@ -12,11 +12,8 @@ Html , Css , JavaScript , Bootstrap , Flask
 ### Machine Learning Library In Python3
 Numpy , Pandas , Scipy
 
-### Database
-SQLite
-
 ### Requirements
-python 3.6
+python 3.7
 
 pip3
 
