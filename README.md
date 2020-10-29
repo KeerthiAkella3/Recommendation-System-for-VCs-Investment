@@ -61,4 +61,3 @@ python main.py runserver
 ### Now open your browser and go to this address
 http://127.0.0.1:5000
 
-## Thank you 
